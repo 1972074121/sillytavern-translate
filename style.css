@@ -1,0 +1,12 @@
+#translate_settings_panel {
+  padding: 15px;
+  background: var(--smart-theme-quote-bg);
+  border-radius: 8px;
+}
+
+#translate_settings_panel select,
+#translate_settings_panel textarea,
+#translate_settings_panel input {
+  width: 100%;
+  margin-bottom: 10px;
+}

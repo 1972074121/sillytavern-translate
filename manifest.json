@@ -1,0 +1,8 @@
+{
+  "name": "实时翻译扩展",
+  "author": "YourName",
+  "version": "1.0",
+  "description": "支持 Google/Bing/LLM 的聊天实时翻译，支持多种模式和自定义风格。",
+  "inject": ["index.js", "style.css"],
+  "settings": true
+}
