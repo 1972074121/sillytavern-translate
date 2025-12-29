@@ -3,7 +3,8 @@
   "author": "DaFQiXiYunFYang",
   "version": "1.0",
   "inject": ["index.js", "style.css"],
-  "settings": true
-  "homePage": "https://github.com/1972074121/sillytavern-translate"
+  "settings": true,
+  "homePage": "https://github.com/1972074121/sillytavern-translate",
 }
+
 
